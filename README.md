@@ -1,2 +1,3 @@
 # llmAI
-Code to communicate with various LLMs
+python code to communicate with various LLMs
+
