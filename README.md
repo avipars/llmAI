@@ -14,7 +14,7 @@ For the following, you will need to set the ```API_KEY``` variable in the code (
 
 * [OpenRouter](openrouter.ipynb)
     
-    - Free model support (API KEY still required):
+    - Free model support (API Key still required):
 
         - Dynamically get all free models available
 
@@ -24,8 +24,13 @@ For the following, you will need to set the ```API_KEY``` variable in the code (
 
     - Dynamically get all models matching your budget
 
-    - File & Media uploading (WIP) 
+    WIP:
 
-    - Chat with multiple models at once (WIP) 
+    - File & Media uploading
+
+    - Chat with multiple models at once
+
+    - Avoid sending request to deprecated models (namely:  google/gemini-2.5-pro-exp-03-25)
+
 
 If you would like to contribute, please fork the repository and submit a pull request.
